@@ -4,7 +4,7 @@ public class InsertionSort {
 
 
     public static void main(String[] args) {
-        int[] numbers = {3, 1, 4, 5, 6};
+        int[] numbers = {3, 1, 4, 8, 6};
         System.out.println("Before");
         printArray(numbers);
         insertionSort(numbers);
